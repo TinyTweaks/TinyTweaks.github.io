@@ -1,1 +1,1 @@
-const route = window.location.href;
+window.location.href = "https://tinytweaks.vercel.app/";
